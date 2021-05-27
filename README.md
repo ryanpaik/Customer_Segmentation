@@ -1,1 +1,3 @@
 # Customer_Segmentation
+
+A global superstore has obtained data transaction orders from 2011 to 2015. The business wants to learn about their customer’s behavior for the business to scale efficiently and effectively. To identify customer’s behavior, the RFM (recency, frequency, and monetary) method will be used to distinguish and identify customers. This method will use their most recent purchase was, how frequently the customer makes an order, and how much the customer has spent to differentiate customer’s behavior. Once customers are segmented, other features that are provided with the data will be used to classify future customers based on previous customer’s behaviors. 
